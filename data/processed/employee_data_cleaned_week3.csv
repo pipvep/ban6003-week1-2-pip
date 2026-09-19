@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,hire_date,department,salary,age,full_time
+101,John,Smith,2022-04-15,Marketing,85000,34.0,True
+102,Jane,Doe,2021-08-20,Sales,92000,45.0,True
+103,Peter,Jones,2022-01-02,HR,71000,29.0,True
+104,Mary,Johnson,2023-11-10,Engineering,115000,38.0,True
+105,Mike,Brown,2020-05-30,sales,89000,38.0,False
+107,Chris,Wilson,2023-02-21,Marketing,91000,33.0,True
+108,Laura,Taylor,2021-09-01,Engineering,120000,52.0,
+110,David,Miller,2019-07-22,HR,68000,58.0,True
+111,Sarah,Moore,2023-03-12,Marketing,91000,28.0,True
+113,Brian,Hall,2022-06-18,Engineering,5900000,999.0,True
