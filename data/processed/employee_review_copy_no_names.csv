@@ -1,0 +1,14 @@
+employee_id,hire_date,department,salary,age,full_time
+101,4/15/22,Marketing,85000,34.0,True
+102,8/20/21,Sales,92000,45.0,True
+103,1/2/22,HR,71000,29.0,True
+104,11/10/23,Engineering,115000,38.0,True
+105,5/30/20,sales,89000,,False
+106,,Sales,95000,41.0,True
+107,2023-FEB-21,Marketing,,33.0,True
+108,9/1/21,Engineering,120000,52.0,
+102,1/15/24,Sales,91000,31.0,True
+110,7/22/19,HR,68000,58.0,True
+111,3/12/23,Marketing,"$91,000 ",28.0,True
+error,2/5/24,Sales,88000,35.0,True
+113,6/18/22,Engineering,5900000,999.0,True
